@@ -1,0 +1,16 @@
+.env
+__pycache__/
+*.pyc
+.DS_Store
+
+# Virtual Environments
+venv/
+env/
+
+# Database / Auth Files
+auth_sessions.json
+contract_history.db
+
+# Analytics / IDE
+.gemini/
+.vscode/
